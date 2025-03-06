@@ -8,3 +8,8 @@ for i in programming_languages:
 
 for i in range(0,10,3):     # (start , end , step)
     print(i)
+
+j = 0
+while j<10:
+    j+=1
+    print(f"j={j}") 
