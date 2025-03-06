@@ -1,3 +1,7 @@
+# --- SOME NOTES ABOUT LISTS ---
+
+# We can initialize an empty list with:
+cities_of_spain = []
 
 cities_of_spain = ["Madrid", "Toledo", "Salamanca", "Barcelona"]
 

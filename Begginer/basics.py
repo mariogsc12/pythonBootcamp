@@ -12,6 +12,8 @@ print(f"To insert variables like {aux} into the console message we use f-strings
 # int -> 10
 # float -> 10.12
 # string -> "10.12"
+#       We can initialize an empty string with:
+#           my_string = ""
 # boolean -> True - False
 
 # Conversions -> int("10")
