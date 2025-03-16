@@ -1,3 +1,5 @@
+# DAY 4 FINAL PROJECT - ROCK PAPER SCISSORS
+
 import random
 
 def userChoice() -> int:
